@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manan152003
+- 👋 Hi, I’m Manan Gupta
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Manan Gupta](https://www.linkedin.com/in/manan-gupta-29642822b/)
+- 📫 How to reach me [LinkedIn]//www.linkedin.com/in/manan-gupta-29642822b/)
 
 <!---
 manan152003/manan152003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
