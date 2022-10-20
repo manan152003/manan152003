@@ -12,7 +12,7 @@
 
 <h3> 👋 &nbsp; About me </h3> 
 <p>
-Hello, My name is Manan Gupta and I am a Developer and AI&ML enthusiast.I am currently learning backend and trying my hands on deep learning too.Also I am very much interested in Data Visualization and Computer Vision 
+Hello, My name is Manan Gupta and I am a Developer and AI&ML enthusiast. I am currently learning backend and trying my hands on deep learning too. Also I am very much interested in Data Visualization and Computer Vision.
 </p>
 
 ---
